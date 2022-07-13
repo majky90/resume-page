@@ -57,16 +57,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Ecommerce riesenie eshopu CLARESA
+        title: Ecommerce riesenie pre eshop CLARESA
         link: claresa.sk
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-globe
             url: beauty-shop.sk
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -111,8 +111,8 @@ content:
 # ![Trees](/resume-page/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
-references_title: References on request (Override references text)
+footer_show_references: false
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
