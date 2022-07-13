@@ -57,13 +57,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Ecommerce riesenie eshopu CLARESA
+        link: claresa.sk
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            icon: fab fa-globe
+            url: beauty-shop.sk
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -107,8 +107,8 @@ content:
       - Biking
       - Gaming
 
-      #Look at this cool image  
-      #![Trees](/resume-page/images/landscape-trees.jpg "Trees")
+# Look at this cool image  
+# ![Trees](/resume-page/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
