@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Marián Varga
-title: Tester
+title: R&D Technical Assistant
 email: varga@vargamarian.sk
 website: www.vargamarian.sk
 
@@ -33,7 +33,7 @@ instagram_username: varga_marian
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://vargamarian.sk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
