@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Ecommerce riesenie pre eshop CLARESA
-        link: claresa.sk
+        title: E-commerce riesenie pre eshopy
+        link: beauty-shop.sk
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -76,11 +76,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: ANTIK Telecom
+        link: antik.sk
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: R&D Technical Assistant
+        caption: April 2012 - Súčasnosť
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -104,8 +104,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Biking
+      - Bicyklovanie
       - Gaming
+      - Turistika
 
 # Look at this cool image  
 # ![Trees](/resume-page/images/landscape-trees.jpg "Trees")
