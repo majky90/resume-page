@@ -32,7 +32,7 @@ instagram_username: varga_marian
 # Additional icon links
 additional_links:
 - title: site
-  icon: fab fa-twitter
+  icon: fas fa-globe
   url: https://vargamarian.sk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
