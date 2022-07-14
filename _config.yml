@@ -32,7 +32,7 @@ instagram_username: varga_marian
 # Additional icon links
 additional_links:
 - title: site
-  icon: fas fa-globe
+  icon: fab fa-twitter
   url: https://vargamarian.sk
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -50,23 +50,23 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>HTML</mark> <mark>CSS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>HTML</mark>, <mark>CSS</mark>, <mark>PHP</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Moje projekty # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: E-commerce riesenie pre eshopy
+        title: E-commerce riesenie na mieru pre eshopy
         link: beauty-shop.sk
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-globe
+            icon: fab fa-twitter
             url: beauty-shop.sk
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+             icon: fab fa-github
+             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
