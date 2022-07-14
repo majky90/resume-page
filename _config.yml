@@ -62,7 +62,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-twitter
+            icon: fas fa-globe
             url: beauty-shop.sk
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
