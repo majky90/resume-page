@@ -68,15 +68,14 @@ content:
           - title:  sproogen/modern-resume-theme
             icon: fas fa-globe
             url: beauty-shop.sk
-         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: www.lavimoda.sk
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Toto je pravdepodobne jedna z najlepších aplikácií, aké boli kedy vytvorené, ak nesúhlasíte, pravdepodobne sa mýlite.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
- 
   - title: Skúsenosti # Title for the section
     layout: list # Type of content section (list/text)
     content:
