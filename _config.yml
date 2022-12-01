@@ -34,6 +34,10 @@ additional_links:
 - title: site
   icon: fas fa-globe
   url: https://vargamarian.sk
+
+- title: site
+  icon: fas fa-globe
+  url: https://mvarga.xyz
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
