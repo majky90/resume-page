@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username: majky90
+github_username:  majky90
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,15 +31,14 @@ instagram_username: varga_marian
 
 # Additional icon links
 additional_links:
-  - title: site
-    icon: fas fa-globe
-    url: http://vargamarian.sk
+- title: site
+  icon: fas fa-globe
+  url: http://vargamarian.sk
 
-  - title: site
-    icon: fas fa-globe
-    url: https://mvarga.xyz
+- title: site
+  icon: fas fa-globe
+  url: https://mvarga.xyz
 
-additional_links:
 - title: Pdf Download
   icon: far fa-file-pdf
   url: https://github.com/{your github username}/{your repo name}/raw/main/pdf/cv.pdf
@@ -70,7 +69,7 @@ content:
         link: beauty-shop.sk
         # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title:  sproogen/modern-resume-theme
             icon: fas fa-globe
             url: beauty-shop.sk
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -91,9 +90,9 @@ content:
         sub_title: R&D Technical Assistant
         caption: April 2012 - Súčasnosť
         quote: >
-          Riešenie problémov 21. storočia
+         Riešenie problémov 21. storočia
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   #- title: Vzdelanie # Title for the section
   #  layout: list # Type of content section (list/text)
@@ -106,7 +105,7 @@ content:
   #        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   #      description: | # this will include new lines to allow paragraphs
   #        During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-  #
+#
   #        I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: Trochu viac o mne
@@ -117,7 +116,7 @@ content:
       - Gaming
       - Turistika
 
-# Look at this cool image
+# Look at this cool image  
 # ![Trees](/resume-page/images/landscape-trees.jpg "Trees")
 
 # Footer
@@ -132,4 +131,4 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-seo-tag
+ - jekyll-seo-tag
